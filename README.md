@@ -1,0 +1,2 @@
+# munichoasisspielbank
+Static site: munichoasisspielbank
